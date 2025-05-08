@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace ProjectNameSpace1
 {
-    public class DemoScript : MonoBehaviour
+    public class DataTypesDemo : MonoBehaviour
     {
         //other code
     }
