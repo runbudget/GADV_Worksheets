@@ -10,7 +10,7 @@ public class TitanLifeCycleVisual : MonoBehaviour
     private float moveLimit = 3f;  // Maximum distance from start pos
     private Vector3 startPos;
     private int direction = 1;  // 1 = right, -1 = left
-
+ 
     // Start is called before the first frame update
     void Start()
     {
